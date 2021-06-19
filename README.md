@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Aishwariya
-- 👀 I’m interested in Database, Data Analysis and Data Visualization
-- 🌱 I’m currently refreshing SQL, Tableau and Excel
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me 
+- 👀 I’m interested in Data Engineer, Data Analysis and Data Visualization
+- 🌱 I’m currently refreshing SQL, Python,Tableau and Excel
+
 
 <!---
 talk2aishp/talk2aishp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
